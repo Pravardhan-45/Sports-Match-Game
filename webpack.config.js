@@ -6,7 +6,9 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, 'dist'),
     filename: 'bundle.js',
+    publicPath: '/Sports-Match-Game/', // This is IMPORTANT for GitHub Pages!
   },
+  
   module: {
     rules: [
       {
