@@ -2,7 +2,7 @@
 
 A fun memory game where players match pairs of famous cricket players under a countdown timer! Built with React and Webpack.
 
-[🔗 Live Demo](https://pravardhan-45.github.io/sports-match-game)
+[🔗 Play here](https://pravardhan-45.github.io/sports-match-game)
 
 
 ## 🚀 Features
